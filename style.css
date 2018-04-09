@@ -61,7 +61,7 @@ p {
 =======================*/
 
 .first-section {
-	background-image: url(img/first-section-bg.png);
+	background-image: url(https://preview.ibb.co/gAMrRc/first_section_bg.png);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
@@ -170,7 +170,7 @@ p {
 =======================*/
 
 .third-section {
-	background-image: url(img/third-section-bg.png);
+	background-image: url(https://preview.ibb.co/kX51Rc/third_section_bg.png);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
@@ -203,7 +203,7 @@ p {
 =======================*/
 
 .fourth-section {
-	background-image: url(img/fourth-section-bg.png);
+	background-image: url(https://preview.ibb.co/b5nWRc/fourth_section_bg.png);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
@@ -265,7 +265,7 @@ p {
 =======================*/
 
 .fivth-section {
-	background-image: url(img/fivth-section-bg.png);
+	background-image: url(https://preview.ibb.co/d1JGsH/fivth_section_bg.png);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
@@ -313,7 +313,7 @@ p {
 =======================*/
 
 .sixth-section {
-	background-image: url(img/sixth-section-bg.png);
+	background-image: url(https://preview.ibb.co/jdtAKx/sixth_section_bg.png);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
@@ -391,7 +391,7 @@ p {
 
 footer {
 	text-align: center;
-	background-image: url(img/footer-bg.png);
+	background-image: url(https://preview.ibb.co/j9aJ6c/footer_bg.png);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
@@ -454,7 +454,7 @@ footer a:hover {
 ======================*/
 
 .first-gallery-section {
-	background-image: url(img/heading-bg.png);
+	background-image: url(https://preview.ibb.co/hBOMRc/heading_bg.png);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
@@ -749,7 +749,7 @@ footer a:hover {
 
 /* Preload images */
 body:after {
-  content: url(img/close.png) url(img/loading.gif) url(img/prev.png) url(img/next.png);
+  content: url(https://image.ibb.co/hmgEex/close.png) url(https://preview.ibb.co/bJ0eCH/loading.gif) url(https://image.ibb.co/eH0Pex/prev.png) url(https://image.ibb.co/gpqeCH/next.png);
   display: none;
 }
 
@@ -828,7 +828,7 @@ body.lb-disable-scrolling {
   width: 32px;
   height: 32px;
   margin: 0 auto;
-  background: url(img/loading.gif) no-repeat;
+  background: url(https://preview.ibb.co/bJ0eCH/loading.gif) no-repeat;
 }
 
 .lb-nav {
@@ -859,7 +859,7 @@ body.lb-disable-scrolling {
   width: 34%;
   left: 0;
   float: left;
-  background: url(img/prev.png) left 48% no-repeat;
+  background: url(https://image.ibb.co/eH0Pex/prev.png) left 48% no-repeat;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
   opacity: 0;
   -webkit-transition: opacity 0.6s;
@@ -877,7 +877,7 @@ body.lb-disable-scrolling {
   width: 64%;
   right: 0;
   float: right;
-  background: url(img/next.png) right 48% no-repeat;
+  background: url(https://image.ibb.co/gpqeCH/next.png) right 48% no-repeat;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
   opacity: 0;
   -webkit-transition: opacity 0.6s;
@@ -945,7 +945,7 @@ body.lb-disable-scrolling {
   float: right;
   width: 30px;
   height: 30px;
-  background: url(img/close.png) top right no-repeat;
+  background: url(https://image.ibb.co/hmgEex/close.png) top right no-repeat;
   text-align: right;
   outline: none;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
