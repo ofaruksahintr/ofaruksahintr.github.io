@@ -61,7 +61,7 @@ p {
 =======================*/
 
 .first-section {
-		background-image: url(img/first_section_bg.png);
+		background-image: url(img/first-section-bg.png);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
@@ -170,7 +170,7 @@ p {
 =======================*/
 
 .third-section {
-	background-image: url(img/third_section_bg.png);
+	background-image: url(img/third-section-bg.png);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
@@ -203,7 +203,7 @@ p {
 =======================*/
 
 .fourth-section {
-	background-image: url(img/fourth_section_bg.png);
+	background-image: url(img/fourth-section-bg.png);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
@@ -265,7 +265,7 @@ p {
 =======================*/
 
 .fivth-section {
-	background-image: url(img/fivth_section_bg.png);
+	background-image: url(img/fivth-section-bg.png);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
@@ -313,7 +313,7 @@ p {
 =======================*/
 
 .sixth-section {
-	background-image: url(img/sixth_section_bg.png);
+	background-image: url(img/sixth-section-bg.png);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
@@ -391,7 +391,7 @@ p {
 
 footer {
 	text-align: center;
-	background-image: url(img/footer_bg.png);
+	background-image: url(img/footer-bg.png);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
@@ -454,7 +454,7 @@ footer a:hover {
 ======================*/
 
 .first-gallery-section {
-	background-image: url(img/heading_bg.png);
+	background-image: url(img/heading-bg.png);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
