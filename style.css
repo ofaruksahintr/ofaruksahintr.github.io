@@ -183,6 +183,8 @@ p {
 
 .service-item .icon img {
 	max-width: 100%;
+	position: relative;
+	top: 50%;
 	overflow: hidden;
 }
 
